@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Notification</string>
+    <string name="textHome">Welcome to Notification App</string>
+    <string name="btnLogin">Login</string>
+    <string name="btnRegister">Register</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="edtUserName">UserName</string>
+    <string name="edtPassword">Password</string>
+    <string name="edtRePassword">ReEnter Password</string>
+    <string name="edtAddress1">Address Line 1</string>
+    <string name="edtAddress2">Address Line 2</string>
+    <string name="edtCity">City</string>
+    <string name="edtPincode">Pincode</string>
+    <string name="edtmail">Email-ID</string>
+    <string name="edtMobile">Mobile Number (10 Digits Only)</string>
+    <string name="MaleRadio">Male</string>
+    <string name="FemaleRadio">Female</string>
+    <string name="OtherRadio">Other</string>
+    <string name="TitleStatusBar">Status Bar</string>
+    <string name="MesgStatusBar">You received Status Bar Notification</string>
+    <string name="btnAlert">Alert Dialog</string>
+    <string name="textDialog">Welcome to Dialog Activity</string>
+    <string name="btnDate">Date Picker Dialog</string>
+    <string name="btnTime">Time Picker Dialog</string>
+    <string name="btnProgress">Progress Dialog</string>
+    <string name="btnCustom">Custom Dialog</string>
+
+    <string-array name="Notifiaction">
+
+        <item>Toast</item>
+        <item>Status Bar</item>
+        <item>Dialog</item>
+
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="TitleAlert">!!Alert Dialog!!</string>
+    <string name="MesgAlert">This is an Alert!!
+                            Are you sure?</string>
+    <string name="alertPositive">Ok</string>
+    <string name="alertNegative">Cancel</string>
+    <string name="TitleProgress">Please Wait...</string>
+    <string name="MesgProgress">Loading...</string>
+    <string name="btnLogout">Logout</string>
+
+</resources>
